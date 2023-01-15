@@ -14,7 +14,7 @@ Mahammadsaleh/Mahammadsaleh
 <h1> About me : <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' height = 40px width = 40px></h1>
 
 <!--======================================================= Viewer Counter =======================================================-->
-### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=RaviHamidov&color=228c22&style=flat">
+### 🔎 <img title="That's a lot, isn't it?😉" src="https://komarev.com/ghpvc/?username=Mahammdsaleh&color=228c22&style=flat">
 
 <!--======================================================= "We can code this" Gif =======================================================-->
 <img align="right" align="right" width="35%" height="250px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
@@ -26,7 +26,7 @@ Mahammadsaleh/Mahammadsaleh
 
 ### 💬 Talk to me about FrontEnd Development
 
-### 📫 How to reach me ravihamidov42@gmail.com
+### 📫 How to reach me mahammadsalehabbas.com
 
 <!--======================================================= Connect with Me Start =======================================================-->
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height = 40px width = 40px> </h1>
