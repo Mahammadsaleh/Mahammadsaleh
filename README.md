@@ -26,7 +26,7 @@ Mahammadsaleh/Mahammadsaleh
 
 ### 💬 Talk to me about FrontEnd Development
 
-### 📫 How to reach me mahammadsalehabbas.com
+### 📫 How to reach me mahammadsalehabbas@gmail.com
 
 <!--======================================================= Connect with Me Start =======================================================-->
 <h1 align="left" > Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height = 40px width = 40px> </h1>
