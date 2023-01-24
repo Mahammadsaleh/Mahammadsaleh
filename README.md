@@ -89,6 +89,6 @@ Mahammadsaleh/Mahammadsaleh
 <!--======================================================= Spotify Start =======================================================--> 
 <img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 <h1> Spotify Playing : 🎧 </h1>
-<div style="border-radius:12px" src="https://open.spotify.com/embed/track/41okdNzP7Y4Zi4yv5P12ES?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/41okdNzP7Y4Zi4yv5P12ES?utm_source=generator" width="50%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31tjf7vlnmnwy6eiydgu4sdt3fsu?si=e20f1df9d1b6415c)
  -->
