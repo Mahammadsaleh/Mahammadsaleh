@@ -87,8 +87,8 @@ Mahammadsaleh/Mahammadsaleh
 
 
 <!--======================================================= Spotify Start =======================================================--> 
-<img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-<h1> Spotify Playing : 🎧 </h1>
+<!-- <img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<h1> Spotify Playing : 🎧 </h1> -->
 
 <!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31tjf7vlnmnwy6eiydgu4sdt3fsu?si=e20f1df9d1b6415c)
  -->
