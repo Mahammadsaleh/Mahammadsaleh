@@ -20,7 +20,7 @@ Mahammadsaleh/Mahammadsaleh
 <img align="right" align="right" width="35%" height="250px" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="cover"/>
 
 <!--======================================================= Introduce Section =======================================================-->
-### 🔭 I’m currently working on C# Winforms 
+### 🔭 I’m currently working on C# 
 
 ### 🌱 I’m currently Learning JavaScript
 
