@@ -37,6 +37,11 @@ Mahammadsaleh/Mahammadsaleh
 
 <a href="https://www.instagram.com/mahammadsalehabbas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
 
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mahammadsaleh&show_icons=true&locale=en&layout=compact" alt="mahammadsaleh" /></p>
+
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=mahammadsaleh&show_icons=true&locale=en" alt="mahammadsaleh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadsaleh&" alt="mahammadsaleh" /></p>
 
 
 <!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
@@ -81,19 +86,4 @@ Mahammadsaleh/Mahammadsaleh
 <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <!-- Heroku -->
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mahammadsaleh&show_icons=true&locale=en&layout=compact" alt="mahammadsaleh" /></p>
 
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=mahammadsaleh&show_icons=true&locale=en" alt="mahammadsaleh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadsaleh&" alt="mahammadsaleh" /></p>
-
-
-<br>
-
-
-<!--======================================================= Spotify Start =======================================================--> 
-<!-- <img align="right" alt="GIF" height="300px" width="35%" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-<h1> Spotify Playing : 🎧 </h1> -->
-
-<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31tjf7vlnmnwy6eiydgu4sdt3fsu?si=e20f1df9d1b6415c)
- -->
