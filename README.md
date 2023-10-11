@@ -38,11 +38,11 @@ Mahammadsaleh/Mahammadsaleh
 <a href="https://www.instagram.com/mahammadsalehabbas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
 
 
-<p><img align="center" height="300" width="600"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mahammadsaleh&show_icons=true&locale=en&layout=compact" alt="mahammadsaleh" /></p>
+<p><img align="center" height="300" width="800"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mahammadsaleh&show_icons=true&locale=en&layout=compact" alt="mahammadsaleh" /></p>
 
-<p><img align="center" height="300" width="600"  src="https://github-readme-stats.vercel.app/api?username=mahammadsaleh&show_icons=true&locale=en" alt="mahammadsaleh" /></p>
+<p><img align="center" height="300" width="800"  src="https://github-readme-stats.vercel.app/api?username=mahammadsaleh&show_icons=true&locale=en" alt="mahammadsaleh" /></p>
 
-<p><img align="center" height="300" width="600"src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadsaleh&" alt="mahammadsaleh" /></p>
+<p><img align="center" height="300" width="800"src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadsaleh&" alt="mahammadsaleh" /></p>
 
 <!--======================================================= "Eat Sleep Code Repeat" Gif =======================================================-->
 <img align="right" width="35%" height="250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover"/>
