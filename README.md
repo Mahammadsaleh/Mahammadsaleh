@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&pause=1000&color=064581&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
   </a>
 </p>
-
 <img align="right" alt="Coding" width="300px" src="https://media1.giphy.com/media/YnQWBOGVavTFK/giphy.gif?cid=ecf05e47y1vpw95ha9on0k5kq6k7hm4gf6drbmljfcpp9o4n&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 ### 🔭 I’m currently working on MERN stack  
@@ -32,6 +31,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <p><img align="center" width = "500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadsaleh&" alt="mahammadsaleh" /></p>
 </p>
-
+</br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadsaleh&theme=&theme=gruvbox-duo&border_radius=12&card_width=1200" alt="GitHub Streak" /></a>
