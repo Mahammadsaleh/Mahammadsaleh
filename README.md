@@ -33,4 +33,4 @@
 </p>
 </br>
 </br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadsaleh&theme=&theme=gruvbox-duo&border_radius=12&card_width=1200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadsaleh&theme=&theme=tokyonight&border_radius=12&card_width=1200" alt="GitHub Streak" /></a>
